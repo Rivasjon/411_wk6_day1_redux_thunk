@@ -1,12 +1,5 @@
 import React from 'react'
-import {
-    Container,
-    Table,
-    TableBody,
-    TableCell,
-    TableHead,
-    TableRow
-} from '@material-ui/core'
+import {Container,Table, TableBody,TableCell,TableHead,TableRow} from '@material-ui/core'
 import DeleteIcon from '@material-ui/icons/Delete'
 import Chart from '../containers/Chart'
 import Total from '../containers/Total'
